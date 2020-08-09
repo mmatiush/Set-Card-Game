@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3C0D58CB-02D9-41D8-9028-53BEFECD2610"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72C39056-CF89-4318-B114-A8B694EA3A3B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SetGame/View/SetGameView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "SetGameView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "72C39056-CF89-4318-B114-A8B694EA3A3B - 7f95bbec78e001a4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of SetGame.SetGameView.viewModel : SetGame.SetGameVM"
+                  moduleName = "SetGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxmatiushchenko/Developer/SetGame/SetGame/View/SetGameView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "72C39056-CF89-4318-B114-A8B694EA3A3B - 8b15f93c8682969e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SetGame.SetGameView.viewModel.getter : SetGame.SetGameVM"
+                  moduleName = "SetGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxmatiushchenko/Developer/SetGame/SetGame/View/SetGameView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "43">
+               </Location>
+               <Location
+                  uuid = "72C39056-CF89-4318-B114-A8B694EA3A3B - b3f8e7c4bcb1a26a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SetGame.SetGameView.viewModel.setter : SetGame.SetGameVM"
+                  moduleName = "SetGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxmatiushchenko/Developer/SetGame/SetGame/View/SetGameView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "74">
+               </Location>
+               <Location
+                  uuid = "72C39056-CF89-4318-B114-A8B694EA3A3B - f0b79fa509ab4b9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SetGame.SetGameView.viewModel.modify : SetGame.SetGameVM"
+                  moduleName = "SetGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxmatiushchenko/Developer/SetGame/SetGame/View/SetGameView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "14">
+               </Location>
+               <Location
+                  uuid = "72C39056-CF89-4318-B114-A8B694EA3A3B - fc74e76a6704276a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SetGame.SetGameView.viewModel.modify : SetGame.SetGameVM with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "SetGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxmatiushchenko/Developer/SetGame/SetGame/View/SetGameView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "72C39056-CF89-4318-B114-A8B694EA3A3B - be856f4a8289fa46"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SetGame.SetGameView.$viewModel.getter : SwiftUI.ObservedObject&lt;SetGame.SetGameVM&gt;.Wrapper"
+                  moduleName = "SetGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxmatiushchenko/Developer/SetGame/SetGame/View/SetGameView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "93">
+               </Location>
+               <Location
+                  uuid = "72C39056-CF89-4318-B114-A8B694EA3A3B - ce4d921bfad974d0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SetGame.SetGameView.init() -&gt; SetGame.SetGameView"
+                  moduleName = "SetGame"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/maxmatiushchenko/Developer/SetGame/SetGame/View/SetGameView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "21">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
